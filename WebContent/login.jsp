@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>个人信息管理系统——登录页面</title>
+<title>个人信息管理系统PIMS——登录页面</title>
 <style>
 <!--
      p1{font-family:华文行楷;font-size:20pt;color:blue;}
